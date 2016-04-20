@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/teeths">
+        <file>images/teeths/1.png</file>
+        <file>images/teeths/1b.png</file>
+        <file>images/teeths/2.png</file>
+        <file>images/teeths/2b.png</file>
+        <file>images/teeths/3.png</file>
+        <file>images/teeths/3b.png</file>
+        <file>images/teeths/3br_u.png</file>
+        <file>images/teeths/3br_d.png</file>
+    </qresource>
+    <qresource prefix="/imgs">
+        <file>imgs/default.png</file>
+    </qresource>
+</RCC>
