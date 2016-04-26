@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Explosion/bigExplosion.png</file>
+        <file>Explosion/miniExplosion.png</file>
+        <file>Explosion/smallExplosion.png</file>
+        <file>Explosion/smallMiniExplosion.png</file>
+        <file>Explosion/tankExplosion.png</file>
+        <file>Explosion/base.png</file>
+        <file>Explosion/explosionBase.png</file>
+        <file>Explosion/destroyedBase.png</file>
+    </qresource>
+</RCC>

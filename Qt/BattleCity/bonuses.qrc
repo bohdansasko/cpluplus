@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/score">
+        <file>bonuses/score/300score.png</file>
+    </qresource>
+</RCC>

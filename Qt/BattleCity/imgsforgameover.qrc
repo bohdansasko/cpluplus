@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgsForGameOver/easy.png</file>
+        <file>imgsForGameOver/hard.png</file>
+        <file>imgsForGameOver/middle.png</file>
+        <file>imgsForGameOver/speed.png</file>
+        <file>imgsForGameOver/whiteLine.png</file>
+    </qresource>
+</RCC>

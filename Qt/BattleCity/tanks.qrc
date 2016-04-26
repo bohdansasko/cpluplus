@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Tanks/YellowTank/tank_Yellow_down_1.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_down_2.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_left_1.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_left_2.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_right_1.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_right_2.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_up_1.png</file>
+        <file>Tanks/YellowTank/tank_Yellow_up_2.png</file>
+    </qresource>
+    <qresource prefix="/tankBot_easy">
+        <file>Tanks/bot_easy/down_1.png</file>
+        <file>Tanks/bot_easy/down_2.png</file>
+        <file>Tanks/bot_easy/left_1.png</file>
+        <file>Tanks/bot_easy/left_2.png</file>
+        <file>Tanks/bot_easy/right_1.png</file>
+        <file>Tanks/bot_easy/right_2.png</file>
+        <file>Tanks/bot_easy/up_1.png</file>
+        <file>Tanks/bot_easy/up_2.png</file>
+    </qresource>
+    <qresource prefix="/tankBot_middle"/>
+    <qresource prefix="/tankBot_hard"/>
+    <qresource prefix="/tankBot_speed">
+        <file>Tanks/bot_speed/down_1.png</file>
+        <file>Tanks/bot_speed/down_2.png</file>
+        <file>Tanks/bot_speed/left_1.png</file>
+        <file>Tanks/bot_speed/left_2.png</file>
+        <file>Tanks/bot_speed/right_1.png</file>
+        <file>Tanks/bot_speed/right_2.png</file>
+        <file>Tanks/bot_speed/up_1.png</file>
+        <file>Tanks/bot_speed/up_2.png</file>
+    </qresource>
+</RCC>

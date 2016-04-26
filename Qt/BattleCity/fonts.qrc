@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fonts/ufonts.com_m10-battle-cities.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/background.ogg</file>
+        <file>sounds/bonus.ogg</file>
+        <file>sounds/brick.ogg</file>
+        <file>sounds/explosion.ogg</file>
+        <file>sounds/fire.ogg</file>
+        <file>sounds/gameover.ogg</file>
+        <file>sounds/gamestart.ogg</file>
+        <file>sounds/steel.ogg</file>
+    </qresource>
+</RCC>

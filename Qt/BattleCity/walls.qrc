@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>walls/1.jpg</file>
+        <file>walls/2.jpg</file>
+        <file>walls/3.jpg</file>
+        <file>walls/4.jpg</file>
+        <file>walls/4.png</file>
+        <file>walls/5.jpg</file>
+        <file>walls/7.jpg</file>
+        <file>walls/gnanade.jpg</file>
+        <file>walls/secure.jpg</file>
+        <file>walls/star.jpg</file>
+        <file>bonuses/time.png</file>
+    </qresource>
+</RCC>

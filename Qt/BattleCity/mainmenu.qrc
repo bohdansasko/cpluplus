@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>algorithmli.cpp</file>
+        <file>algorithmli.h</file>
+        <file>battlecitymap.cpp</file>
+        <file>battlecitymap.h</file>
+        <file>battlecityview.cpp</file>
+        <file>battlecityview.h</file>
+        <file>bullet.cpp</file>
+        <file>bullet.h</file>
+        <file>constants.h</file>
+        <file>main.cpp</file>
+        <file>mainmenu.cpp</file>
+        <file>mainmenu.h</file>
+        <file>parsing.cpp</file>
+        <file>parsing.h</file>
+        <file>redwall.cpp</file>
+        <file>redwall.h</file>
+        <file>sprite.cpp</file>
+        <file>sprite.h</file>
+        <file>tank.cpp</file>
+        <file>tank.h</file>
+        <file>tankbot.cpp</file>
+        <file>tankbot.h</file>
+        <file>tankforplayer.cpp</file>
+        <file>tankforplayer.h</file>
+        <file>udpclient.cpp</file>
+        <file>udpclient.h</file>
+        <file>img/background.png</file>
+        <file>img/tank.png</file>
+    </qresource>
+</RCC>
